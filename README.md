@@ -1,0 +1,2 @@
+vim-auto-buffer-switch
+======================
